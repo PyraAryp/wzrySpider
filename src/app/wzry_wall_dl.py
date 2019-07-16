@@ -26,6 +26,10 @@ class WzrzWallDL:
     """
 
     def __init__(self):
+        # current_path = os.path.realpath(sys.argv[0])
+        # current_path_list = os.path.split(current_path)
+        # self.conf_path = os.path.join(current_path_list[0], "res/conf/config.json")
+
         self.conf_path = os.path.join(os.getcwd(), "res/conf/config.json")
 
         if os.path.isfile(self.conf_path):

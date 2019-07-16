@@ -5,6 +5,6 @@
             "max_page_number": 12,
             "download_path": "D://wzrySpiderDownload",
             "logfile_path": "wzrySpider.log",
-            "images_resolution": "1920x1080"
+            "images_resolution": "1920x1200"
         }
 }

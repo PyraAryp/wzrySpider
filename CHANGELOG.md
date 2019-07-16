@@ -14,5 +14,12 @@
 
 ## **v1.0.2 (2018-12-13)**
 
-- upgrade python module: urllib3 ~> 1.23
 - Optimize log output.
+
+## **v1.0.3 (2019-07-15)**
+
+- upgrade python module: urllib3
+
+## **v1.0.4 (2019-07-16)**
+
+- Optimize
